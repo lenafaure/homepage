@@ -1,3 +1,4 @@
-### Learn Modern Developer - CSS Course
+###Learn Modern Developer - CSS Course
 
-Homepage of the website that links to other projects
+Home page of the website and link to other projects
+
